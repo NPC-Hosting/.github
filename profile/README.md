@@ -4,9 +4,10 @@ We are a leading provider of game servers, web hosting, and VPS solutions for cl
 
 ## Here are some ways you can get involved with our community:
 
-Check out our contributions guidelines to see how you can contribute to our open-source projects.
-Browse through our documentation to learn more about our services and how to use them.
-Join our community on Discord and connect with other developers and users.
-Keep an eye out for events and hackathons organized by NPC Hosting, and participate in them.
+- Check out our contributions guidelines to see how you can contribute to our open-source projects.
+- Browse through our documentation to learn more about our services and how to use them.
+- Join our community on Discord and connect with other developers and users.
+- Keep an eye out for events and hackathons organized by NPC Hosting, and participate in them.
+
 We look forward to working with you and building great things together! 🤝
 
